@@ -1,6 +1,6 @@
 # Ansys-CAE
 
-Date 08 june 2022
+Date: 08 june 2022
 Author: Miguel Trujillo
 
 In this repository we will see the first steps to do some static mechanical analysis in ANSYS
